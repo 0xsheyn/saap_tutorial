@@ -9,10 +9,10 @@ git clone <repo-url>
 
 ### 2. Install dependencies
 cd client && npm install  
-cd ../backend && npm install  
+cd ../server && npm install  
 
 ### 3. Run project
-# backend
+# server
 npm run dev
 
 # frontend
